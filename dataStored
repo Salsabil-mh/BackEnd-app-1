@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "salsabil",
+        "lname": "mohamed",
+        "age": 25,
+        "city": "alexandria"
+    },
+    {
+        "id": 3,
+        "fname": "samir",
+        "lname": "islam",
+        "age": 29,
+        "city": "sharkeya"
+    },
+    {
+        "id": 5,
+        "fname": "maher",
+        "lname": "kareem",
+        "age": 24,
+        "city": "giza"
+    },
+    {
+        "id": 7,
+        "fname": "toka",
+        "lname": "hosney",
+        "age": 21,
+        "city": "fayoum"
+    },
+    {
+        "id": 9,
+        "fname": "mounir",
+        "lname": "ramadan",
+        "age": 34,
+        "city": "sina"
+    },
+    {
+        "id": 10,
+        "fname": "omar",
+        "lname": "sayed",
+        "age": 28,
+        "city": "tiba"
+    }
+]
